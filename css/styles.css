@@ -1,0 +1,69 @@
+header{
+	position: relative;
+
+}
+body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+    /* background-image: url(../img/tim_maia2.png);
+    background-color: transparent; */
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+h2{
+    text-align: left;
+    font-size: 25px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px; 
+}
+
+figure{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+table tr td {
+    width: 100%;
+    border: 1px solid black;
+    padding: 0px;
+    margin: 0px;
+    text-align: justify;
+}
+
+table.tbl_titulos{
+    width: 100%;
+    border: 1px solid red;
+}
+/* footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    /* background: rgba(76, 175, 80, 0.3) */
+} */
